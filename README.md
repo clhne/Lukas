@@ -3,4 +3,5 @@
 * 加快github下载代码的速度：https://blog.csdn.net/mist99/article/details/80602090  
 * 编写git自述文件：https://blog.csdn.net/weixin_40449300/article/details/79682838  
 BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
+Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases
 ![a](https://github.com/LukasHe0908/Lukas/blob/master/logo/README-1.png)  
