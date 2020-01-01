@@ -6,4 +6,5 @@
 BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
 Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
+蓝灯破解：  https://xking-swing.gitee.io/keyingxia.blog/2018/02/01/%E8%93%9D%E7%81%AF%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F/
 ![a](https://github.com/LukasHe0908/Lukas/blob/master/logo/README-1.png)  
