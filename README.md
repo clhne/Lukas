@@ -6,6 +6,6 @@
 BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
 Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
-免费SSR：http://tool.bitefu.net/ssr.html  
-http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12
+ps2019下载：https://www.anxz.com/down/11244.html  
+SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
 ![a](https://github.com/LukasHe0908/Lukas/blob/master/logo/README-1.png)  
