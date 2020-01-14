@@ -8,8 +8,8 @@ Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/
 Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
 ps2019下载：https://www.anxz.com/down/11244.html  
 永硕E盘：http://lukas.ys168.com/  
-SSR
--
-**SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
-**迷雾通用户名：cutterr：密码：258369  
+SSR  
+-  
+SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
+迷雾通用户名：cutterr：密码：258369  
 ![a](https://github.com/LukasHe0908/Lukas/blob/master/logo/README-1.png)  
