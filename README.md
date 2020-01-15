@@ -10,6 +10,7 @@
 ##### 永硕E盘：http://lukas.ys168.com/  
 #### VPN  
 下載無限流量免費VPN(需全局翻牆進站)https://bearteach.com/bearman/1930  
+protonvpn下载:https://account.protonvpn.com
 SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
 迷雾通用户名：cutterr：密码：258369  
 ![a](https://github.com/LukasHe0908/Lukas/blob/master/logo/README-1.png)  
