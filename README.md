@@ -6,7 +6,8 @@
 * BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
 * Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
-* 免费内网穿透：https://www.natfrp.com/page/panel/
+* 免费内网穿透：https://www.natfrp.com/page/panel/  
+* eagleget多线程下载：http://www.eagleget.com/
 ##### ps2019下载：https://www.anxz.com/down/11244.html  
 ##### 永硕E盘：http://lukas.ys168.com/  
 #### VPN  
