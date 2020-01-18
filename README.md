@@ -8,7 +8,9 @@
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
 * 免费内网穿透：https://www.natfrp.com/page/panel/  
 * Xdown多线程下载：https://xdown.org/index.htm  
-* aria2：https://github.com/q3aql/aria2-static-builds/
+####Minecraft
+* 区块删除：https://github.com/Querz/mcaselector  
+* 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址：https://lintx.github.io/minecraft/calc.html
 ##### ps2019下载：https://www.anxz.com/down/11244.html  
 ##### 永硕E盘：http://lukas.ys168.com/  
 #### VPN  
