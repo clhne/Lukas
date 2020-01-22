@@ -13,7 +13,7 @@
 * 提取bilibili封面：http://b.qiuyeye.cn/  
 ### Minecraft  
 * 中文Minecraft Wiki镜像:https://wiki.biligame.com/mc/Minecraft_Wiki  
-* 中文Minecraft Wikihttps://minecraft-zh.gamepedia.com/Minecraft_Wiki  
+* 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址：https://lintx.github.io/minecraft/calc.html  
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
