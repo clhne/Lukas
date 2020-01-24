@@ -8,6 +8,7 @@
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
 * 免费内网穿透：https://www.natfrp.com/page/panel/  
 * Xdown多线程下载：https://xdown.org/index.htm  
+* PotPlayer中文版：http://globalpotplayer.cn/
 * AI抠图：https://www.remove.bg/zh  
 * 实用小工具：https://www.guoxingjun.com/  
 * 提取bilibili封面：http://b.qiuyeye.cn/  
