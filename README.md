@@ -9,7 +9,7 @@
 * 免费内网穿透：https://www.natfrp.com/page/panel/  
 * Xdown多线程下载：https://xdown.org/index.htm  
 * PotPlayer中文版：http://globalpotplayer.cn/  
-* Java下载：https://www.java.com/zh_CN/download/windows-64bit.jsp
+* Java64x下载：https://www.java.com/zh_CN/download/windows-64bit.jsp
 * AI抠图：https://www.remove.bg/zh  
 * 实用小工具：https://www.guoxingjun.com/  
 * 提取bilibili封面：http://b.qiuyeye.cn/  
