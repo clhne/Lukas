@@ -11,8 +11,8 @@
 * PotPlayer中文版：http://globalpotplayer.cn/  
 * Java64x下载：https://www.java.com/zh_CN/download/windows-64bit.jsp
 * AI抠图：https://www.remove.bg/zh  
+* PNG装ICO：https://www.aconvert.com/cn/icon/png-to-ico/
 * 实用小工具：https://www.guoxingjun.com/  
-* 提取bilibili封面：http://b.qiuyeye.cn/  
 ### Minecraft  
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
