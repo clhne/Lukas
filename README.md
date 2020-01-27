@@ -19,6 +19,7 @@
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址：https://lintx.github.io/minecraft/calc.html  
 * 服务端：https://mcversions.net/  
 * 工具：https://minecraft.tools/  
+* X-Ray材质包；https://minecraftbase.de/xray-texture-pack/  
 * Impact：https://impactclient.net/  
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
 ##### 永硕E盘：http://lukas.ys168.com/  
