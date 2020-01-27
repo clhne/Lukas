@@ -16,7 +16,7 @@
 ### Minecraft  
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
-* 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址：https://lintx.github.io/minecraft/calc.html  
+* 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
 * 服务端：https://mcversions.net/  
 * 工具：https://minecraft.tools/  
 * X-Ray材质包；https://minecraftbase.de/xray-texture-pack/  
