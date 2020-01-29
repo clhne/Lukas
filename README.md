@@ -6,7 +6,6 @@
 * Xdown多线程下载：https://xdown.org/index.htm  
 * PotPlayer中文版：http://globalpotplayer.cn/  
 * Microsoft .NET Framework 4下载：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
-* Java64x下载：https://www.java.com/zh_CN/download/windows-64bit.jsp  
 * AI抠图：https://www.remove.bg/zh  
 * 所有JAVA下载：https://www.java.com/en/download/manual.jsp
 * PNG装ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
