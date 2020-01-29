@@ -21,6 +21,7 @@
 * Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
 * MCEdit：https://github.com/Podshot/MCEdit-Unified
+* 附魔黑客：https://github.com/Earthcomputer/EnchantmentCracker
 * X-Ray材质包:https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible 
 * Impact：https://impactclient.net/  
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
