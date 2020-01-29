@@ -16,7 +16,8 @@
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
 * 服务端：https://mcversions.net/  
 * 工具：https://minecraft.tools/  
-* Fabricmc下载：https://fabricmc.net/use/  
+* Fabric：https://fabricmc.net/use/  
+* Paper：https://ci.destroystokyo.com
 * BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
 * Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
