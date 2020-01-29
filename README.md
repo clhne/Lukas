@@ -25,6 +25,7 @@
 * 附魔黑客：https://github.com/Earthcomputer/EnchantmentCracker
 * X-Ray材质包:https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible 
 * Impact：https://impactclient.net/  
+* MCTAP/IP加速/：https://mctap.cn/  
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
 ##### 永硕E盘：http://lukas.ys168.com/  
 ### VPN  
