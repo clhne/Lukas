@@ -20,7 +20,7 @@
 * BSL光影：https://www.curseforge.com/minecraft/customization/bsl-shaders/files  
 * Sildurs Vibrant Shaders光影：https://sildurs-shaders.github.io/downloads/  
 * Wisdom光影：https://github.com/bobcao3/Wisdom-Shaders/releases  
-* MCEdit：https://github.com/Podshot/MCEdit-Unified
+* Worldpainter：https://www.worldpainter.net/
 * 附魔黑客：https://github.com/Earthcomputer/EnchantmentCracker
 * X-Ray材质包:https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible 
 * Impact：https://impactclient.net/  
