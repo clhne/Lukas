@@ -10,8 +10,8 @@
 * 所有JAVA下载：https://www.java.com/en/download/manual.jsp
 * PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
 * 在线视频剪辑：https://online-video-cutter.com/cn/  
+* 在线文字识别：http://ocrmaker.com/
 * 实用小工具：https://www.guoxingjun.com/  
-* 在线视频剪辑：https://online-video-cutter.com/cn/  
 ### Minecraft  
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
