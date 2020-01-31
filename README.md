@@ -8,8 +8,10 @@
 * Microsoft .NET Framework 4下载：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
 * AI抠图：https://www.remove.bg/zh  
 * 所有JAVA下载：https://www.java.com/en/download/manual.jsp
-* PNG装ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
+* PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
+* 在线视频剪辑：https://online-video-cutter.com/cn/  
 * 实用小工具：https://www.guoxingjun.com/  
+* 在线视频剪辑：https://online-video-cutter.com/cn/  
 ### Minecraft  
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
