@@ -39,3 +39,5 @@
 SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
 迷雾通v3.2.2下载：https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.2.2-setup.exe  
 迷雾通用户名：cutterr：密码：258369  
+额外参数：  
+-Xincgc -Xms32M -Xms32M -Xss512K -XX:+AggressiveOpts -XX:+UseCompressedOops -XX:+UseCMSCompactAtFullCollection -XX:+UseFastAccessorMethods -XX:ParallelGCThreads=1 -XX:+UseConcMarkSweepGC -XX:CMSFullGCsBeforeCompaction=2 -XX:CMSInitiatingOccupancyFraction=70 -XX:-DisableExplicitGC -XX:TargetSurvivorRatio=90  
