@@ -11,6 +11,7 @@
 * PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
 * 在线视频剪辑：https://online-video-cutter.com/cn/  
 * 在线文字识别：http://ocrmaker.com/  
+* Desktop Goose/桌面鹅：https://samperson.itch.io/desktop-goose
 * ICOFormat：http://www.telegraphics.com.au/sw/ | 使用方法：复制到PS目录下的"/Required/Plugins/File Formats/"  
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
