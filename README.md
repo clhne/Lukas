@@ -10,7 +10,8 @@
 * 所有JAVA下载：https://www.java.com/en/download/manual.jsp
 * PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
 * 在线视频剪辑：https://online-video-cutter.com/cn/  
-* 在线文字识别：http://ocrmaker.com/
+* 在线文字识别：http://ocrmaker.com/  
+* ICOFormat：http://www.telegraphics.com.au/ | 使用方法：复制到PS目录下的"/Required/Plugins/File Formats/"
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
