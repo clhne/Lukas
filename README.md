@@ -7,7 +7,8 @@
 * PotPlayer中文版：http://globalpotplayer.cn/  
 * Microsoft .NET Framework 4下载：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
 * AI抠图：https://www.remove.bg/zh  
-* 所有JAVA下载：https://www.java.com/en/download/manual.jsp
+* 所有JAVA下载：https://www.java.com/en/download/manual.jsp  
+* 在线字数统计：http://www.eteste.com/
 * PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
 * 在线视频剪辑：https://online-video-cutter.com/cn/  
 * 在线文字识别：http://ocrmaker.com/  
