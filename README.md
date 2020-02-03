@@ -16,6 +16,7 @@
 * ICOFormat：http://www.telegraphics.com.au/sw/ | 使用方法：复制到PS目录下的"/Required/Plugins/File Formats/"  
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
+* BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
