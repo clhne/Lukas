@@ -41,7 +41,10 @@
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
 ##### 永硕E盘：http://lukas.ys168.com/  
 ### VPN  
-SSR订阅地址：http://144.34.136.129/keji.php?id=bcf03d2a930f8401ef9efe48a1aaaf12  
+共享获取帐号：  
+https://free-ss.best（此站点国内可访问，可能部分时段会发生打开异常，多试几遍）  
+https://fanqiang.network/  
+https://www.jxhgz.com/2019/10/ssrv2ray.html（这里有我自己搭的两个帐号，可供应急使用，切务滥用）  
 迷雾通v3.2.2下载：https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.2.2-setup.exe  
 迷雾通用户名：cutterr：密码：258369  
 额外参数：  
