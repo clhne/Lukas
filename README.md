@@ -17,7 +17,8 @@
 * ICOFormat：http://www.telegraphics.com.au/sw/ | 使用方法：复制到PS目录下的"/Required/Plugins/File Formats/"  
 * VMware Workstation Pro下载：https://my.vmware.com/cn/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0  
 * 暴风激活：http://www.baofengjihuo.com/  
-* 跨平台字幕制作软件：https://arctime.org/
+* 跨平台字幕制作软件：https://arctime.org/  
+* fl studio20破解版：http://wm.makeding.com/iclk/?zoneid=30551
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
 * BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
