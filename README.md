@@ -22,6 +22,7 @@
 * 安卓系统：https://www.android-x86.org/
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
+* mcaselector:https://github.com/Querz/mcaselector  
 * BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
