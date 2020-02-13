@@ -28,7 +28,8 @@
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
 * 服务端：https://mcversions.net/  
-* NullCraft Minecraft Server Pro：https://nullcraft.org/d/6-nullcraft-minecraft-server-pro
+* NullCraft Minecraft Server Pro：https://nullcraft.org/d/6-nullcraft-minecraft-server-pro  
+* Spritecraft 1.1.6 像素画生成器：https://www.mcbbs.net/thread-933010-1-1.html  
 * 工具：https://minecraft.tools/  
 * 工具2：https://chunkbase.com/apps/
 * Fabric：https://fabricmc.net/use/  
