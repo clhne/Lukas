@@ -23,6 +23,7 @@
 * 安卓系统：https://www.android-x86.org/
 * 实用小工具：https://www.guoxingjun.com/  
 * Dism++：http://www.chuyu.me/  
+* 草料浏览器插件——二维码生成和解码：https://cli.im/help/53255
 ### Minecraft  
 * mcaselector:https://github.com/Querz/mcaselector  
 * BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
