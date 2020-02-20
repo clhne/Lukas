@@ -27,12 +27,13 @@
 * B站录播姬：https://rec.danmuji.org/  
 * 实用小工具：https://www.guoxingjun.com/  
 ### Minecraft  
+* 服务端：https://mcversions.net/  
+* 服务端2：https://mirror.tcotp.cn/  
 * mcaselector:https://github.com/Querz/mcaselector  
 * BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
-* 服务端：https://mcversions.net/  
 * NullCraft Minecraft Server Pro：https://nullcraft.org/d/6-nullcraft-minecraft-server-pro  
 * Spritecraft 1.1.6 像素画生成器：https://www.mcbbs.net/thread-933010-1-1.html  
 * 工具：https://minecraft.tools/  
