@@ -22,7 +22,8 @@
 * fl studio20：http://wm.makeding.com/iclk/?zoneid=30551  
 * 安卓系统：https://www.android-x86.org/
 * Dism++：http://www.chuyu.me/  
-* 草料浏览器插件——二维码生成和解码：https://cli.im/help/53255
+* 草料浏览器插件——二维码生成和解码：https://cli.im/help/53255  
+* Visual Studio：https://visualstudio.microsoft.com/zh-hans/vs/  
 ### BiliBili
 * B站录播姬：https://rec.danmuji.org/  
 * 实用小工具：https://www.guoxingjun.com/  
