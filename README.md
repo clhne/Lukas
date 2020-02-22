@@ -30,6 +30,7 @@
 ### Minecraft  
 * 服务端：https://mcversions.net/  
 * 服务端2：https://mirror.tcotp.cn/  
+* Chunk base：https://chunkbase.com/  
 * mcaselector:https://github.com/Querz/mcaselector  
 * BMCLAPI镜像：https://bmclapidoc.bangbang93.com/
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
