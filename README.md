@@ -27,6 +27,7 @@
 ### BiliBili
 * B站录播姬：https://rec.danmuji.org/  
 * 实用小工具：https://www.guoxingjun.com/  
+*图标下载*
 ### Minecraft  
 * MC_UUID查找：https://mcuuid.net/  
 * 服务端：https://mcversions.net/  
