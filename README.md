@@ -61,5 +61,6 @@ https://fanqiang.network/
 https://www.jxhgz.com/2019/10/ssrv2ray.html （这里有我自己搭的两个帐号，可供应急使用，切务滥用）  
 迷雾通v3.2.2下载：https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.2.2-setup.exe  
 迷雾通用户名：cutterr：密码：258369  
+uuid:18df8d14-5f50-449f-abfa-881455c3ae1f  
 额外参数：  
 -Xincgc -Xms32M -Xms32M -Xss512K -XX:+AggressiveOpts -XX:+UseCompressedOops -XX:+UseCMSCompactAtFullCollection -XX:+UseFastAccessorMethods -XX:ParallelGCThreads=1 -XX:+UseConcMarkSweepGC -XX:CMSFullGCsBeforeCompaction=2 -XX:CMSInitiatingOccupancyFraction=70 -XX:-DisableExplicitGC -XX:TargetSurvivorRatio=90  
