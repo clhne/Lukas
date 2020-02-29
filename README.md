@@ -24,6 +24,7 @@
 * Dism++：http://www.chuyu.me/  
 * 草料浏览器插件——二维码生成和解码：https://cli.im/help/53255  
 * Visual Studio：https://visualstudio.microsoft.com/zh-hans/
+* 临时邮箱：http://24mail.chacuo.net/  
 ### BiliBili
 * B站录播姬：https://rec.danmuji.org/  
 * 实用小工具：https://www.guoxingjun.com/  
