@@ -58,7 +58,7 @@
 ##### 永硕E盘：http://lukas.ys168.com/  
 ### VPN  
 共享获取帐号：  
-https://blog.netimed.cn/ssr.html
+https://blog.netimed.cn/ssr.html  
 https://free-ss.best  
 https://fanqiang.network/  
 https://www.jxhgz.com/2019/10/ssrv2ray.html （这里有我自己搭的两个帐号，可供应急使用，切务滥用）  
