@@ -58,10 +58,10 @@
 ##### 永硕E盘：http://lukas.ys168.com/  
 ### VPN  
 共享获取帐号：  
-https://free-ss.best （此站点国内可访问，可能部分时段会发生打开异常，多试几遍）  
+https://blog.netimed.cn/ssr.html
+https://free-ss.best  
 https://fanqiang.network/  
 https://www.jxhgz.com/2019/10/ssrv2ray.html （这里有我自己搭的两个帐号，可供应急使用，切务滥用）  
-迷雾通v3.2.2下载：https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.2.2-setup.exe  
 迷雾通用户名：cutterr：密码：258369  
 uuid:18df8d14-5f50-449f-abfa-881455c3ae1f  
 额外参数：  
