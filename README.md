@@ -57,7 +57,6 @@
 ##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
 ##### 永硕E盘：http://lukas.ys168.com/  
 ### VPN  
-uVPN：https://uvpn.me/
 共享获取帐号：  
 https://blog.netimed.cn/ssr.html  
 https://free-ss.best  
